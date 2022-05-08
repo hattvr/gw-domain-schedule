@@ -35,8 +35,6 @@ After you are done installing the required python libraries, you can setup the c
 ```
 `token` - This is the token for your Discord bot, this can be accessed from your Discord account's Developer Portal!
 
-`guild` - This is the ID of the guild/server you want the bot to send notifications in. You can get a Discord guild/server's id by right-clicking on the server icon and pressing the button named **Copy ID**
-
 `talent-schedule-channel` - This is the ID of the channel you want the bot to send the domain schedule for talents in. You can get a Discord channel's id by right-clicking on the channel and pressing the button named **Copy ID**
 
 `weapon-schedule-channel` - This is the ID of the channel you want the bot to send the domain schedule for weapons in. You can get a Discord channel's id by right-clicking on the channel and pressing the button named **Copy ID**
