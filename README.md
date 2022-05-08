@@ -14,11 +14,11 @@
 
 ---
 <div align="center">
-    <img src="https://i.imgur.com/G67f6xS.png">
+    <img src="https://i.imgur.com/QlM3TFR.png">
 </div>
 
 ## **Getting Started**  
-gw-domain-schedule is an advanced, easy to setup, free, and unbranded Discord bot. This bot allows users to send a welcome notification, in the form of an image, in a desired channel. To being installing this bot, you're going to want to install the required python libs from the `requirements.txt` file.
+gw-domain-schedule is an advanced, easy to setup, free, and unbranded Discord bot. This bot allows users to send domain schedules for weapon ascension materials as well as talent materials, in the form of an image, in a desired channel. To being installing this bot, you're going to want to install the required python libs from the `requirements.txt` file.
 ```py
 pip install -r requirements.txt
 ```
@@ -28,7 +28,6 @@ After you are done installing the required python libraries, you can setup the c
 {
     "settings": {
         "token": "YOUR_BOT_TOKEN_HERE",
-        "guild": "YOUR_GUILD_ID_HERE",
         "talent-schedule-channel": "CHANNEL_ID_FOR_TALENTS_SCHEDULE",
         "weapon-schedule-channel": "CHANNEL_ID_FOR_WEAPONS_SCHEDULE"
     }

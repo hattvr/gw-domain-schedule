@@ -8,7 +8,7 @@ from discord.ext import commands
 token = json.load(open('config.json', 'r'))['settings']['token']
 
 # Declare intents
-intents = discord.Intents.all()
+intents = discord.Intents.default()
 
 class Client(commands.Bot):
     def __init__(self):

@@ -24,8 +24,8 @@ class DomainSchedule(commands.Cog):
         if "dev" in sys.argv:
             return
 
-        talents_channel = self.bot.get_channel(957878186639761448)
-        weapons_channel = self.bot.get_channel(972744704489840700)
+        talents_channel = self.bot.get_channel(int(json.load(open('config.json', 'r'))['settings']['talent-schedule-channel']))
+        weapons_channel = self.bot.get_channel(int(json.load(open('config.json', 'r'))['settings']['weapon-schedule-channel']))
         await talents_channel.purge()
         await weapons_channel.purge()
         talents = await talents_channel.send("Updating...")
@@ -35,8 +35,7 @@ class DomainSchedule(commands.Cog):
             await self.weapons(weapons)
             await asyncio.sleep(600)
 
-    async def talents(self, msg: discord.Message):
-        # Genshin 
+    async def talents(self, msg: discord.Message): # Talent domain schedule
         regions = ["America", "Europe", "Asia"]
         attachments, embeds = [], []
         for region in regions:
@@ -66,7 +65,7 @@ class DomainSchedule(commands.Cog):
             attachments.append(discord.File(domain_img))
         await msg.edit(embeds=embeds, attachments=attachments, content = None)
     
-    async def weapons(self, msg: discord.Message):
+    async def weapons(self, msg: discord.Message): # Weapon ascension domain schedule
         regions = ["America", "Europe", "Asia"]
         attachments, embeds = [], []
         for region in regions:
