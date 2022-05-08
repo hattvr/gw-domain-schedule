@@ -1,0 +1,248 @@
+{
+    "data":{
+        "domains":{
+            "cecilia_garden":{
+                "material":[
+                    {
+                        "name":"decarabian",
+                        "icon":"https://i.imgur.com/QC2din3.png",
+                        "days":[
+                            "Monday",
+                            "Thursday",
+                            "Sunday"
+                        ],
+                        "wpn":[
+                            "Apprentice's Notes",
+                            "Dull Blade",
+                            "Pocket Grimoire",
+                            "Silver Sword",
+                            "Cool Steel",
+                            "Ferrous Shadow",
+                            "Magic Guide",
+                            "Raven Bow",
+                            "Cinnabar Spindle",
+                            "Favonius Codex",
+                            "Favonius Sword",
+                            "Mitternachts Waltz",
+                            "Royal Grimoire",
+                            "Royal Longsword",
+                            "Snow-Tombed Starsilver",
+                            "The Alley Flash",
+                            "The Bell",
+                            "The Stringless",
+                            "The Viridiscent Hunt",
+                            "Aquila Favonia",
+                            "Song of Broken Pines"
+                        ]
+                    },
+                    {
+                        "name":"boreal",
+                        "icon":"https://i.imgur.com/GBCX0wi.png",
+                        "days":[
+                            "Tuesday",
+                            "Friday",
+                            "Sunday"
+                        ],
+                        "wpn":[
+                            "Hunter's Bow",
+                            "Waster Greatsword",
+                            "Old Merc's Pal",
+                            "Seasoned Hunter's Bow",
+                            "Bloodtainted Greatsword",
+                            "Harbinger of Dawn",
+                            "Sharpshooter's Oath",
+                            "Thrilling Tales of Dragon Slayers",
+                            "Deathmatch",
+                            "Dodoco Tales",
+                            "Dragonspine Spear",
+                            "Sacrificial Bow",
+                            "Sacrificial Greatsword",
+                            "Sword of Descension",
+                            "The Black Sword",
+                            "The Flute",
+                            "The Widsith",
+                            "Elegy for the End",
+                            "Wine and Song",
+                            "Skyward Atlas",
+                            "Skyward Blade",
+                            "Skyward Harp",
+                            "Skyward Pride"
+                        ]
+                    },
+                    {
+                        "name":"shackles",
+                        "icon":"https://i.imgur.com/acOwGfI.png",
+                        "days":[
+                            "Wednesday",
+                            "Saturday",
+                            "Sunday"
+                        ],
+                        "wpn":[
+                            "Beginner's Protector",
+                            "Iron Point",
+                            "Otherwordly Story",
+                            "Traveler's Handy Sword",
+                            "White Iron Greatsword",
+                            "Recurve Bow",
+                            "Alley Hunter",
+                            "Favonius Greatsword",
+                            "Favonius Lance",
+                            "Favonius Warbow",
+                            "Festering Desire",
+                            "Frostbearer",
+                            "Royal Bow",
+                            "Royal Greatsword",
+                            "Sacrificial Fragments",
+                            "Sacrificial Sword",
+                            "Windblume Ode",
+                            "Amos' Bow",
+                            "Freedom-Sworn",
+                            "Lost Prayer to the Sacred Winds",
+                            "Skyward Spine",
+                            "Wolf's Gravestone"
+                        ]
+                    }
+                ]
+            },
+            "hidden_palace_of_lianshan_formula":{
+                "material":[
+                    {
+                        "name":"relic",
+                        "icon":"https://i.imgur.com/ZECT1sS.png",
+                        "days":[
+                            "Monday",
+                            "Thursday",
+                            "Sunday"
+                        ],
+                        "wpn":[
+                            "Dark Iron Sword",
+                            "Emerald Orb",
+                            "Slingshot",
+                            "White Tassel",
+                            "Blackcliff Agate",
+                            "Blackcliff Longsword",
+                            "Blackcliff Warbow",
+                            "Crescent Pike",
+                            "Lion's Roar",
+                            "Lithic Blade",
+                            "Rust",
+                            "Solar Pearl",
+                            "Whiteblind",
+                            "Primordial Jade Winged-Spear",
+                            "Summit Shaper"
+                        ]
+                    },
+                    {
+                        "name":"elixir",
+                        "icon":"https://i.imgur.com/43PhzTN.png",
+                        "days":[
+                            "Tuesday",
+                            "Friday",
+                            "Sunday"
+                        ],
+                        "wpn":[
+                            "Debate Club",
+                            "Fillet Blade",
+                            "Halberd",
+                            "Messenger",
+                            "Twin Nephrite",
+                            "Blackcliff Pole",
+                            "Blackcliff Slasher",
+                            "Dragon's Bane",
+                            "Eye of Perception",
+                            "Prorotype Amber",
+                            "Prototype Crescent",
+                            "Prototype Rancour",
+                            "Rainslasher",
+                            "Royal Spear",
+                            "Calamity Queller",
+                            "Primordial Jade Cutter",
+                            "The Unforged"
+                        ]
+                    },
+                    {
+                        "name":"aerosiderite",
+                        "icon":"https://i.imgur.com/QLR6DR9.png",
+                        "days":[
+                            "Wednesday",
+                            "Saturday",
+                            "Sunday"
+                        ],
+                        "wpn":[
+                            "Black Tassel",
+                            "Skyrider Greatsword",
+                            "Skyrider Sword",
+                            "Compound Bow",
+                            "Iron Sting",
+                            "Lithic Spear",
+                            "Luxurious Sea-Lord",
+                            "Mappa Mare",
+                            "Prototype Archaic",
+                            "Prototype Starglitter",
+                            "Serpent Spine",
+                            "Memory of Dust",
+                            "Staff of Homa",
+                            "Vortex Vanquisher"
+                        ]
+                    }
+                ]
+            },
+            "court_of_flowing_sand":{
+                "material":[
+                    {
+                        "name":"branch",
+                        "icon":"https://i.imgur.com/WSy9NqJ.png",
+                        "days":[
+                            "Monday",
+                            "Thursday",
+                            "Sunday"
+                        ],
+                        "wpn":[
+                            "Akuoumaru",
+                            "Amenoma Kaguechi",
+                            "Hakushin Ring",
+                            "Oathsworn Eye",
+                            "Everlasting Moonglow",
+                            "Mistsplitter Reforged"
+                        ]
+                    },
+                    {
+                        "name":"narukami",
+                        "icon":"https://i.imgur.com/KOSORkm.png",
+                        "days":[
+                            "Tuesday",
+                            "Friday",
+                            "Sunday"
+                        ],
+                        "wpn":[
+                            "Hamayumi",
+                            "Katsuragikiri Nagamasa",
+                            "Mouun's Moon",
+                            "Predator",
+                            "Haran Geppaku Futsu",
+                            "Redhorn Stonethresher",
+                            "Thundering Pulse"
+                        ]
+                    },
+                    {
+                        "name":"mask",
+                        "icon":"https://i.imgur.com/IMtYdFL.png",
+                        "days":[
+                            "Wednesday",
+                            "Saturday",
+                            "Sunday"
+                        ],
+                        "wpn":[
+                            "The Catch",
+                            "Kitain Cross Spear",
+                            "Wavebreaker's Fin",
+                            "Engulfing Lightning",
+                            "Kagura's Verity",
+                            "Polar Star"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
