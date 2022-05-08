@@ -1,7 +1,8 @@
 git+https://github.com/Rapptz/discord.py
-discord
 asyncio
+colorama
+aiohttp
 sys
-pillow
-ordinal
-io
+pytz
+datetime
+time
