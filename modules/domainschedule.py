@@ -83,10 +83,7 @@ class DomainSchedule(commands.Cog):
                             if today == "Sunday":
                                 desc = "All domains are available. Farm for **any** weapon you want today!"
                             else:
-                                desc+= f"\n**Domain:** {string.capwords(domain.replace('_',' '))}\n**Material:** {string.capwords(material['name'])}\n**Farmable For:**\n"
-                                for weapon in material["wpn"]:
-                                    desc+= f"`{weapon}` "
-                                desc+= "\n"
+                                desc+= f"\n**Domain:** {string.capwords(domain.replace('_',' '))}\n**Material:** {string.capwords(material['name'])}\n"
             domain_img = f"attributes/Images/WeaponDomains/{today}.png"
             embed.set_image(url = f"attachment://{today}.png")
             embed.add_field(name=f"{today}'s Schedule", value=desc, inline=True)
