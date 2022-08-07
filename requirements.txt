@@ -2,7 +2,6 @@ git+https://github.com/Rapptz/discord.py
 asyncio
 colorama
 aiohttp
-sys
 pytz
-datetime
-time
+
+
